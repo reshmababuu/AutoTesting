@@ -7,7 +7,7 @@ public class MethodsDemo {
 	}
 	public void doLogin() // instance method definition(should be return outside the main functn, inside the class)
 	{
-	System.out.println("hai");
+	System.out.println("hai, hellooo");
 	}
 
 }
